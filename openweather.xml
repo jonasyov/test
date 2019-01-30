@@ -1,6 +1,6 @@
-<!--  Tutorial_01_Hello_Facebook (XML)  -->
+<!--  Tutorial_01_Hello_Weather (XML)  -->
 <Module specificationVersion="2">
-<ModulePrefs title="Facebook Feed"> </ModulePrefs>
+<ModulePrefs title="Weather Widget"> </ModulePrefs>
 <Content type="html">
 <![CDATA[ 
 
